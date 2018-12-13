@@ -51,5 +51,7 @@ Systems are generally simplified with assumptions, as trying to figure out every
 1. Ask a question
 2. Identify factors that affect the question
 3. Simplify with assumptions
+4. Write equations/create graphs
+5. Analyze the model (compare to what exists, look at extreme values)
 
 ## What is a Numerical Simulation?
