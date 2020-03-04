@@ -1,12 +1,4 @@
 # Numerical Models & Simulations
 
-## Table of Contents
-1. [Intro- What is Mathematical Modeling?][Intro]
-2. [Battle- Battle Simulation][Battle]
-
-
-
-
-
-[Intro]: Intro/Intro.md
-[Battle]: Battle/Battle.md
+Notes and programs from Mr. Bonanomi's Numerical Models & Simulations
+Tri 2 2018-2019 at BCA
